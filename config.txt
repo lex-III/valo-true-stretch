@@ -1,0 +1,12 @@
+# =============================================================
+#  Toggle Monitor & Resolution - settings
+#  Edit the values below, save, then run. Lines starting with # are ignored.
+# =============================================================
+
+# Resolution to switch to when you toggle (WIDTHxHEIGHT). Example: 1920x1080
+resolution = 1280x1024
+
+# OPTIONAL: full path to your Riot Client, only if Valorant isn't found
+# automatically. Leave blank for auto-detect. Example:
+#   valorant = C:\Riot Games\Riot Client\RiotClientServices.exe
+valorant =
